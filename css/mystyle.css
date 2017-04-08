@@ -2,18 +2,23 @@
 }
 
 .row-content {
+    margin: 0px 0px;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 300px;
 }
 
 .row-footer {
+    background-color: #6bbc59;
+    padding: 20px 0px 20px 0px;
+}
+
+.copyright {
+    background-color: #ae538e;
 }
 
 .jumbotron {
-}
-
-address {
-}
-
-body {
+    background: #b4d465;
 }
 
 .navbar-default {
